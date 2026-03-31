@@ -1,3 +1,12 @@
+Proxy
+
+http://http=127.0.0.1     Port 8080
+
+46.17.47.48
+
+----------------------------------
+------------------
+
 Install the New Version OPENVPN 
 
 https://openvpn.net/community/
