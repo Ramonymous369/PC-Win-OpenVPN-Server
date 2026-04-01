@@ -1,5 +1,9 @@
 Proxy
 
+Windows 10 or 11 co. 
+
+Settings Network and Internet Proxy
+
 http://http=127.0.0.1     Port 8080
 
 Setupscript 
